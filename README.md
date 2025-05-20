@@ -19,4 +19,4 @@ I'm a developer who loves clean code, solving problems, and crafting application
 
 ## 📫 Hubungi Saya
 - Email: [mochnooralfan@gmail.com](mailto:mochnooralfan@gmail.com)
-- LinkedIn: [linkedin.com](linkedin.com/in/moch-noor-alfan/)
+- LinkedIn: [linkedin.com](www.linkedin.com/in/moch-noor-alfan)
