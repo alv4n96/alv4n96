@@ -12,11 +12,11 @@ I'm a developer who loves clean code, solving problems, and crafting application
 - **Database:** PostgreSQL, SQL Server
 - **Tools:** Git, Docker, Kubernetes, 
 
-## 📈 Statistik GitHub
 <!--
+## 📈 Statistik GitHub
 ![Statistik GitHub Alfan](https://github-readme-stats.vercel.app/api?username=alv4n96&show_icons=true&theme=radical)
 -->
 
 ## 📫 Hubungi Saya
 - Email: [mochnooralfan@gmail.com](mailto:mochnooralfan@gmail.com)
-- LinkedIn: [linkedin.com/in/alv4n96](https://www.linkedin.com/in/alv4n96)
+- LinkedIn: [linkedin.com](linkedin.com/in/moch-noor-alfan/)
