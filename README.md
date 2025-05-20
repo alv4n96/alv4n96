@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Halo, saya Alfan!
 
+Saya adalah seorang pengembang perangkat lunak yang bersemangat dalam membangun aplikasi web yang efisien dan skalabel. Saya senang belajar teknologi baru dan berkontribusi pada proyek open-source.
+
+## 🔧 Teknologi & Alat
+- **Programming Language:** C#, TypeScript, GoLang
+- **Framework:** ASP.NET Framework, Next.js, Nest.js
+- **Database:** PostgreSQL, SQL Server
+- **Tools:** Git, Docker, Kubernetes, 
+
+## 📈 Statistik GitHub
 <!--
-**alv4n96/alv4n96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Statistik GitHub Alfan](https://github-readme-stats.vercel.app/api?username=alv4n96&show_icons=true&theme=radical)
 -->
+
+## 📫 Hubungi Saya
+- Email: [mochnooralfan@gmail.com](mailto:mochnooralfan@gmail.com)
+- LinkedIn: [linkedin.com/in/alv4n96](https://www.linkedin.com/in/alv4n96)
