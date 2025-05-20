@@ -6,7 +6,7 @@ Just happy to know about **techonolojiaaa** 😄 — I enjoy learning and buildi
 I'm a developer who loves clean code, solving problems, and crafting applications that people enjoy using.
 
 
-## 🔧 Teknologi & Alat
+## 🔧 Technology & Tools
 - **Programming Language:** C#, TypeScript, GoLang
 - **Framework:** ASP.NET Framework, Next.js, Nest.js
 - **Database:** PostgreSQL, SQL Server
