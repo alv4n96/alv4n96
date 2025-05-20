@@ -1,6 +1,10 @@
-# 👋 Halo, saya Alfan!
+# 👋 Halo, I Am Alfan!
 
-Saya adalah seorang pengembang perangkat lunak yang bersemangat dalam membangun aplikasi web yang efisien dan skalabel. Saya senang belajar teknologi baru dan berkontribusi pada proyek open-source.
+Just happy to know about **techonolojiaaa** 😄 — I enjoy learning and building things with technology, especially using **C#** and **TypeScript**.
+
+## 🚀 About Me
+I'm a developer who loves clean code, solving problems, and crafting applications that people enjoy using.
+
 
 ## 🔧 Teknologi & Alat
 - **Programming Language:** C#, TypeScript, GoLang
